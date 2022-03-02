@@ -3,6 +3,8 @@
 E-Commerce Data Analysis with Power BI and Google Analytics.
 
 ---
+### Technologies that I used:
+##  ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)   ![GoogleAnalytcs](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
 The Dashboard represents the answers to the following questions:
 
